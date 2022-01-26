@@ -36,3 +36,6 @@ al portland, trust fund fanny pack pinterest biodiesel organic mixtape
 salvia live-edge. Before they sold out banjo put a bird on it, pabst pou
 tine hella meh subway tile 3 wolf moon austin poke messenger bag glossier.
  Authentic XOXO PBR&B gochujang seitan trust fund. Ramps actually artisan bespoke.
+
+ ###Copyright
+ 2022 yashwant.git.learning
