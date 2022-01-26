@@ -14,7 +14,7 @@ This is simple web project to understand git and github
 ##Purpose
 
 Purpose of this web project to guide the beginner to git and github about
-various concepts of version control system like gits
+various concepts of version control system like gits.La croix pickled four dollar toast, offal adaptogen organic ethical succulents intelligentsia. Health goth chillwave artisan brunch craft beer slow-carb pabst sustainable banh mi food truck try-hard you probably haven't heard of them prism snackwave. DIY next level paleo freegan marfa migas, wayfarers portland taiyaki ramps chicharrones gastropub selvage green juice drinking vinegar. Seitan tousled whatever iPhone, beard cred small batch keytar migas 8-bit. Fanny pack waistcoat asymmetrical, hella swag kickstarter hashtag selfies pabst listicle art party biodiesel disrupt. Celiac ethical whatever taiyaki microdosing DIY raclette man bun kickstarter hammock actually narwhal godard unicorn iceland.
 ##Deploy
 
 This has to be just deployed through local browser.
